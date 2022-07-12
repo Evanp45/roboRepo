@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roboRepo/static/css/main.29826fd3.css",
+    "main.js": "/roboRepo/static/js/main.a17f7aa6.js",
+    "static/js/787.32032a02.chunk.js": "/roboRepo/static/js/787.32032a02.chunk.js",
+    "static/media/MR ROBOT.woff": "/roboRepo/static/media/MR ROBOT.ae7e35be11d8e7b07bac.woff",
+    "index.html": "/roboRepo/index.html",
+    "main.29826fd3.css.map": "/roboRepo/static/css/main.29826fd3.css.map",
+    "main.a17f7aa6.js.map": "/roboRepo/static/js/main.a17f7aa6.js.map",
+    "787.32032a02.chunk.js.map": "/roboRepo/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29826fd3.css",
+    "static/js/main.a17f7aa6.js"
+  ]
+}
